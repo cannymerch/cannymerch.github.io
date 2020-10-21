@@ -93,6 +93,7 @@ h6 { font: 400 1.2em 'Oswald', sans-serif; }
   float: right;
 }
 */
+.col-md-6 img{box-shadow:0 0 1px #01477a;padding:10px 10px}
 
 @media (max-width: 600px) {
   .product-container > img { max-width: 100%; }
